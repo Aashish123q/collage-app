@@ -1,2 +1,3 @@
 # collage-app
-my first git repository
+collsage app for client
+
