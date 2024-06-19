@@ -1,3 +1,4 @@
 # collage-app
-collsage app for client
+collage app for client
+<br>author - Aashish kharel
 
